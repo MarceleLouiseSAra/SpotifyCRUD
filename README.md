@@ -1,4 +1,4 @@
-# asMelhoresDaLorinha
+# SpotifyCRUD
 
 O presente projeto consiste em um banco de dados interativo, em que o usuário pode registrar, excluir, acessar e atualizar novos álbuns e músicas da Taylor Swift. Através do prompt de comando, o usuário fornece entradas e recebe respostas explicativas que o orientam acerca de como usar a aplicação.
 
