@@ -61,13 +61,3 @@ def routeDeleteAlbum(albumID : int) -> None:
             print("Esse álbum não foi excluído.")
     else:
         print("\nDesculpe, mas não existe álbum associado a tal ID.")
-
-
-    # objectAlbum = deleteAlbum(albumID)
-
-    # if objectAlbum:
-    #     print(f"\nO álbum {objectAlbum.title}, lançado no dia {objectAlbum.releaseDate}, foi removido com sucesso do banco de dados.")
-    #     return objectAlbum
-    
-    # else:
-    #     print("\nDesculpe, mas não existe álbum associado a tal ID.")
